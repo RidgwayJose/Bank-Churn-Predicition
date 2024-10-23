@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729616980716
+current_stage: Production
+description: ''
+last_updated_timestamp: 1729622147822
+name: Bank_Churn_model
+run_id: b052583d44b84a86a1e94d59268687d0
+run_link: ''
+source: file:///e:/User/Documents/Rid/DMC/Diplomado%20Data%20Architect/ML/Eval_Dar5/notebooks/mlruns/174269768005723102/b052583d44b84a86a1e94d59268687d0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/User/Documents/Rid/DMC/Diplomado%20Data%20Architect/ML/Eval_Dar5/notebooks/mlruns/174269768005723102/b052583d44b84a86a1e94d59268687d0/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=22.3.1
+- pip:
+  - mlflow==2.17.0
+  - pycaret==3.3.2
+name: Bank_Churn-env

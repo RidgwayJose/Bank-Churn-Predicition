@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/User/Documents/Rid/DMC/Diplomado%20Data%20Architect/ML/Eval_Dar5/notebooks/mlruns/174269768005723102/b052583d44b84a86a1e94d59268687d0/artifacts
+end_time: 1729581177897
+entry_point_name: ''
+experiment_id: '174269768005723102'
+lifecycle_stage: active
+run_id: b052583d44b84a86a1e94d59268687d0
+run_name: Random Forest Classifier
+run_uuid: b052583d44b84a86a1e94d59268687d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729581177678
+status: 3
+tags: []
+user_id: User
